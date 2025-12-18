@@ -130,3 +130,16 @@ Make sure the camera has good lighting for accurate finger detection.
 Keep your hand within the camera frame for best performance.
 
 Adjust the password array in hello.py to change the finger sequence.
+
+
+Sample videos for the Project:
+
+
+
+https://github.com/user-attachments/assets/bfdfe45c-7e5d-42a1-83ba-6947e1107f54
+
+
+
+https://github.com/user-attachments/assets/019cd112-9683-4c09-be51-ff938af68b26
+
+
